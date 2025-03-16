@@ -1,3 +1,7 @@
+.env/
+__pycache__/
+quote_venv/
+
 .env
-/__pycache__
-/quote_venv
+*.env
+*.venv
