@@ -15,7 +15,7 @@ app.add_middleware(
 )
 
 def load_quotes():
-    with open("data.json", "r", encoding="utf-8") as file:
+    with open("lux_data.json", "r", encoding="utf-8") as file:
         return json.load(file)
 
 class QuoteRequest(BaseModel):
