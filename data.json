@@ -1,142 +1,443 @@
 [
   {
-    "id": 1,
-    "text": "All Wée féieren no Rom.",
-    "author": "Luxembourgish Proverb",
-    "category": "wisdom",
-    "meaning": "There are many ways to achieve the same goal."
+      "id": 1,
+      "text": "Wien A seet, muss och B soen.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
   },
   {
-    "id": 2,
-    "text": "As éischter gesot ewéi gedoen.",
-    "author": "Luxembourgish Proverb",
-    "category": "wisdom",
-    "meaning": "It's easier to talk about doing something than to actually do it."
+      "id": 2,
+      "text": "Wann d'Aarbecht ee räich méich, da wier den Iesel méi räich wéi de Mëller.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
   },
   {
-    "id": 3,
-    "text": "Den Apel fält nét weit vum Bâm.",
-    "author": "Luxembourgish Proverb",
-    "category": "wisdom",
-    "meaning": "Children often resemble their parents in behavior or characteristics."
+      "id": 3,
+      "text": "Vun der Aarbecht gëtt kee fett.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
   },
   {
-    "id": 4,
-    "text": "D' Nout kennt kee Gesetz.",
-    "author": "Luxembourgish Proverb",
-    "category": "wisdom",
-    "meaning": "In urgent situations, people may disregard rules or conventions."
+      "id": 4,
+      "text": "Dat Aalt dauert am längsten.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
   },
   {
-    "id": 5,
-    "text": "De Geleeënheet mécht den Déif.",
-    "author": "Luxembourgish Proverb",
-    "category": "wisdom",
-    "meaning": "People may act dishonestly if given the chance."
+      "id": 5,
+      "text": "Besser e midden Aarm, wéi een eidelen Daarm.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
   },
   {
-    "id": 6,
-    "text": "Den alles wëllt, kritt näischt.",
-    "author": "Luxembourgish Proverb",
-    "category": "wisdom",
-    "meaning": "Being overly greedy can lead to losing everything."
+      "id": 6,
+      "text": "Aarm sinn ass keng Schan.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
   },
   {
-    "id": 7,
-    "text": "Den éischte Frënd ass de beschte Frënd.",
-    "author": "Luxembourgish Proverb",
-    "category": "life",
-    "meaning": "Long-standing friendships are invaluable."
+      "id": 7,
+      "text": "D'Aarmut ass e Sträitmécher.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
   },
   {
-    "id": 8,
-    "text": "Déi zwéi Kinnekskanner, déi sech gär haten, koumen net beieneen.",
-    "author": "Luxembourgish Proverb",
-    "category": "love",
-    "meaning": "Even those destined for each other may face insurmountable obstacles."
+      "id": 8,
+      "text": "Hien huet mech net emol mam Aasch bekuckt (hien huet mech total ignoréiert).",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
   },
   {
-    "id": 9,
-    "text": "Et ass kee Prophet an sengem eegene Land unerkannt.",
-    "author": "Luxembourgish Proverb",
-    "category": "wisdom",
-    "meaning": "People's talents or insights are often unappreciated by those close to them."
+      "id": 9,
+      "text": "Adam an Éiv waren déi zwéin éischt Äppeldéif.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
   },
   {
-    "id": 10,
-    "text": "Klenge Kärel mécht och Schied.",
-    "author": "Luxembourgish Proverb",
-    "category": "motivation",
-    "meaning": "Everyone, regardless of size or status, has significance."
+      "id": 10,
+      "text": "Aus den Aen, aus dem Sënn.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
   },
   {
-    "id": 11,
-    "text": "Léiw Wierder kaschten näischt.",
-    "author": "Luxembourgish Proverb",
-    "category": "kindness",
-    "meaning": "Being kind doesn't require much effort but has great value."
+      "id": 11,
+      "text": "Véier Ae gesi méi wéi zwee.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
   },
   {
-    "id": 12,
-    "text": "Mat Gedold an Zäit gëtt d'Miel zum Brout.",
-    "author": "Luxembourgish Proverb",
-    "category": "patience",
-    "meaning": "Patience leads to fruitful outcomes."
+      "id": 12,
+      "text": "D'Aen op oder de Beidel.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
   },
   {
-    "id": 13,
-    "text": "Net all Dag ass Sonndeg.",
-    "author": "Luxembourgish Proverb",
-    "category": "life",
-    "meaning": "Life isn't always easy; challenges are part of it."
+      "id": 13,
+      "text": "Wat een net ännere kann, soll ee roueg erdroen.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
   },
   {
-    "id": 14,
-    "text": "Ouni Käschte gëtt et keng Gewënn.",
-    "author": "Luxembourgish Proverb",
-    "category": "success",
-    "meaning": "Achieving something valuable often requires sacrifices."
+      "id": 14,
+      "text": "Näischt gesot ass och eng Äntwert.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
   },
   {
-    "id": 15,
-    "text": "Séisse Mond kritt alles.",
-    "author": "Luxembourgish Proverb",
-    "category": "wisdom",
-    "meaning": "Kindness and flattery can achieve a lot."
+      "id": 15,
+      "text": "Een Af mécht der honnert.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
   },
   {
-    "id": 16,
-    "text": "Wou d'Uelzecht durech d'Wisen zéit, do ass onst Land.",
-    "author": "Luxembourgish Proverb",
-    "category": "patriotism",
-    "meaning": "A poetic reference to Luxembourg's landscape and heritage."
+      "id": 16,
+      "text": "Engem Af geet alles gutt.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
   },
   {
-    "id": 17,
-    "text": "Zefill Käch versalzen d'Zopp.",
-    "author": "Luxembourgish Proverb",
-    "category": "wisdom",
-    "meaning": "Too many people involved can ruin a project."
+      "id": 17,
+      "text": "Ech ginn der gläich en Akkont! (du kriss gläich Streech!).",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
   },
   {
-    "id": 18,
-    "text": "Zeit ass Suen.",
-    "author": "Benjamin Franklin (Translated to Luxembourgish)",
-    "category": "success",
-    "meaning": "Time is a valuable resource."
+      "id": 18,
+      "text": "Léier keen alen Af Grimasse maachen.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
   },
   {
-    "id": 19,
-    "text": "Wie net wëllt héieren, muss fillen.",
-    "author": "Luxembourgish Proverb",
-    "category": "wisdom",
-    "meaning": "Ignoring advice can lead to consequences."
+      "id": 19,
+      "text": "Al Eisen, ale Goss, al Fraen, ale Verdross.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
   },
   {
-    "id": 20,
-    "text": "Wou eng Wëll ass, ass och e Wee.",
-    "author": "Luxembourgish Proverb",
-    "category": "motivation",
-    "meaning": "Determination can overcome obstacles."
+      "id": 20,
+      "text": "En ale Kniecht an eng jonk Mod gëtt gär e grousse Stot.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 21,
+      "text": "Bei den Alen ass ee gutt gehalen.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 22,
+      "text": "Alles leeft, nëmmen de Fräsch deen hopst.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 23,
+      "text": "Den Alter geet vir (sot den Eilespill, dunn huet e seng Mamm d'Trap eragestouss).",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 24,
+      "text": "An Amen a Jo war d'Affär gedoen (d'Affär war ganz séier gedoen).",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 25,
+      "text": "Sécher wéi den Amen am Gebiet.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 26,
+      "text": "Den Apel fält net wäit vum Bam, e misst just de Bierg erofrullen.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 27,
+      "text": "Et soll ee sech ëmmer een Apel fir den Duuscht versuergen.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 28,
+      "text": "Den Appetit kënnt iwwer dem Iessen.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 29,
+      "text": "D'Ausriede si fir ze gebrauchen.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 30,
+      "text": "Bal ass nach keng Maus an der Fal.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 31,
+      "text": "Besser den Aascht fält wéi de Bam.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 32,
+      "text": "En ale Bam verplanzt een net (en ale Mënsch soll een do liewe loossen, wou e gewinnt ass).",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 33,
+      "text": "Déi dommst Baueren hunn déi déckst Gromperen (och domm Leit kënne Chance hunn).",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 34,
+      "text": "Wat de Bauer net kennt, dat frësst en net.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 35,
+      "text": "E Bauer, e Béier an e Stéier, dat sinn dräi ongemälleg Déier.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 36,
+      "text": "Et ass dofir gesuergt, datt d'Beem net an den Himmel wuessen.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 37,
+      "text": "Wat een net am Kapp huet, muss een an de Been hunn.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 38,
+      "text": "Wéi e beicht, sou gëtt ee lassgesprach.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 39,
+      "text": "Wéi een an de Bësch rifft, sou schaalt et erëm.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 40,
+      "text": "Dat bescht kënnt hannenno.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 41,
+      "text": "Besser ass besser, sot d'Fra, do huet se d'Ham an der Mëllech gekacht.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 42,
+      "text": "Besser eng Kuuscht an der Täsch, wéi eng Fieder um Hutt.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 43,
+      "text": "Besser spéit eppes, wéi fréi näischt.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 44,
+      "text": "Besser spéit, wéi guer net.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 45,
+      "text": "D'Bestueden ass eng Lotterie.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 46,
+      "text": "Wéi ee säi Bett mécht, sou schléift een.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 47,
+      "text": "Et ass besser biedelen, wéi stielen.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 48,
+      "text": "Hanner dem Bierg sinn och Leit.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 49,
+      "text": "En neie Biesem kiert besser.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 50,
+      "text": "Och eng blann Sau kann eng Eechel fannen.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 51,
+      "text": "Et ass nach laang net alles Gold, wat blénkt.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 52,
+      "text": "Et heescht keng Kou Blimmchen, dees se hief eng wäiss Strimmchen.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 53,
+      "text": "Mengen a Botter schäissen ass zweeërlee.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 54,
+      "text": "Du bass net hei, fir brong ze ginn! (seet een zu engem, deen net effikass schafft).",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 55,
+      "text": "Dee nervt mech, ech kéint en ongespëtzt an de Buedem schloen! (deen nervt mech, ech géif en am léifste gutt zerschloen).",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 56,
+      "text": "Grénge Chrëschtdag, wäissen Ouschterdag.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 57,
+      "text": "D'Chance geet dem Soff no.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 58,
+      "text": "Du hues méi Chance ewéi Verstand (wat der geléngt, ass méi duerch Zoufall ewéi duerch Iwwerleeën).",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 59,
+      "text": "Schéck een Dabo an de Bësch, da kriss de een Eefalt erëm.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 60,
+      "text": "Muer ass och nach een Dag.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 61,
+      "text": "Wat den Dag méi helleg, wat der Däiwel méi rosen.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 62,
+      "text": "Et gëtt näischt sou reng gestiicht, t'kënnt dach un Dagesliicht.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
+  },
+  {
+      "id": 63,
+      "text": "Wou Damp ass, do ass och Feier.",
+      "author": "Unknown",
+      "category": "Lëtzebuergesch Spréchwierder",
+      "meaning": ""
   }
 ]
