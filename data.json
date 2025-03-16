@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "text": "The only limit to our realization of tomorrow is our doubts of today.",
+      "author": "Franklin D. Roosevelt",
+      "category": "inspiration"
+    },
+    {
+      "id": 2,
+      "text": "In the middle of difficulty lies opportunity.",
+      "author": "Albert Einstein",
+      "category": "motivation"
+    },
+    {
+      "id": 3,
+      "text": "Do what you can, with what you have, where you are.",
+      "author": "Theodore Roosevelt",
+      "category": "motivation"
+    },
+    {
+      "id": 4,
+      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "category": "success"
+    },
+    {
+      "id": 5,
+      "text": "Act as if what you do makes a difference. It does.",
+      "author": "William James",
+      "category": "inspiration"
+    },
+    {
+      "id": 6,
+      "text": "Opportunities don't happen. You create them.",
+      "author": "Chris Grosser",
+      "category": "success"
+    },
+    {
+      "id": 7,
+      "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+      "author": "Ralph Waldo Emerson",
+      "category": "wisdom"
+    },
+    {
+      "id": 8,
+      "text": "Do not wait to strike till the iron is hot, but make it hot by striking.",
+      "author": "William Butler Yeats",
+      "category": "motivation"
+    },
+    {
+      "id": 9,
+      "text": "Everything you’ve ever wanted is on the other side of fear.",
+      "author": "George Addair",
+      "category": "inspiration"
+    },
+    {
+      "id": 10,
+      "text": "If you really look closely, most overnight successes took a long time.",
+      "author": "Steve Jobs",
+      "category": "success"
+    },
+    {
+      "id": 11,
+      "text": "It is not in the stars to hold our destiny but in ourselves.",
+      "author": "William Shakespeare",
+      "category": "wisdom"
+    },
+    {
+      "id": 12,
+      "text": "Do what you feel in your heart to be right—for you’ll be criticized anyway.",
+      "author": "Eleanor Roosevelt",
+      "category": "life"
+    },
+    {
+      "id": 13,
+      "text": "Whether you think you can, or you think you can’t—you’re right.",
+      "author": "Henry Ford",
+      "category": "motivation"
+    },
+    {
+      "id": 14,
+      "text": "It always seems impossible until it’s done.",
+      "author": "Nelson Mandela",
+      "category": "inspiration"
+    },
+    {
+      "id": 15,
+      "text": "Dream big and dare to fail.",
+      "author": "Norman Vaughan",
+      "category": "success"
+    },
+    {
+      "id": 16,
+      "text": "Happiness depends upon ourselves.",
+      "author": "Aristotle",
+      "category": "life"
+    },
+    {
+      "id": 17,
+      "text": "The way to get started is to quit talking and begin doing.",
+      "author": "Walt Disney",
+      "category": "motivation"
+    },
+    {
+      "id": 18,
+      "text": "Turn your wounds into wisdom.",
+      "author": "Oprah Winfrey",
+      "category": "wisdom"
+    },
+    {
+      "id": 19,
+      "text": "He who opens a school door, closes a prison.",
+      "author": "Victor Hugo",
+      "category": "wisdom"
+    },
+    {
+      "id": 20,
+      "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+      "author": "Ralph Waldo Emerson",
+      "category": "inspiration"
+    }
+  ]
+  

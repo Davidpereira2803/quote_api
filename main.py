@@ -1,55 +1,50 @@
-from fastapi import FastAPI, Depends, HTTPException
-from sqlalchemy.orm import Session
-import models
-from database import engine, SessionLocal
-from pydantic import BaseModel
+from fastapi import FastAPI, HTTPException
+import json
 import random
-
-# Initialize database
-models.Base.metadata.create_all(bind=engine)
+from pydantic import BaseModel
 
 app = FastAPI()
 
-# Dependency to get DB session
-def get_db():
-    db = SessionLocal()
-    try:
-        yield db
-    finally:
-        db.close()
+def load_quotes():
+    with open("data.json", "r", encoding="utf-8") as file:
+        return json.load(file)
 
-# Pydantic model for API requests
 class QuoteRequest(BaseModel):
     text: str
     author: str
     category: str
 
-# Get a random quote
+@app.get("/quotes")
+def get_all_quotes():
+    quotes = load_quotes()
+    return quotes
+
 @app.get("/quote")
-def get_random_quote(db: Session = Depends(get_db)):
-    quotes = db.query(models.Quote).all()
+def get_random_quote():
+    quotes = load_quotes()
     if not quotes:
         raise HTTPException(status_code=404, detail="No quotes found")
     return random.choice(quotes)
 
-# Get all quotes
-@app.get("/quotes")
-def get_all_quotes(db: Session = Depends(get_db)):
-    return db.query(models.Quote).all()
-
-# Get a quote by category
 @app.get("/quotes/category/{category}")
-def get_quote_by_category(category: str, db: Session = Depends(get_db)):
-    quotes = db.query(models.Quote).filter(models.Quote.category == category).all()
+def get_quote_by_category(category: str):
+    quotes = [q for q in load_quotes() if q["category"].lower() == category.lower()]
     if not quotes:
         raise HTTPException(status_code=404, detail="No quotes found in this category")
     return random.choice(quotes)
 
-# Add a new quote
 @app.post("/quotes")
-def add_quote(quote: QuoteRequest, db: Session = Depends(get_db)):
-    new_quote = models.Quote(text=quote.text, author=quote.author, category=quote.category)
-    db.add(new_quote)
-    db.commit()
-    db.refresh(new_quote)
+def add_quote(quote: QuoteRequest):
+    quotes = load_quotes()
+    new_quote = {
+        "id": max(q["id"] for q in quotes) + 1 if quotes else 1,
+        "text": quote.text,
+        "author": quote.author,
+        "category": quote.category
+    }
+    quotes.append(new_quote)
+
+    with open("data.json", "w", encoding="utf-8") as file:
+        json.dump(quotes, file, indent=4)
+
     return {"message": "Quote added successfully", "quote": new_quote}
