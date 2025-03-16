@@ -1,123 +1,142 @@
 [
-    {
-      "id": 1,
-      "text": "The only limit to our realization of tomorrow is our doubts of today.",
-      "author": "Franklin D. Roosevelt",
-      "category": "inspiration"
-    },
-    {
-      "id": 2,
-      "text": "In the middle of difficulty lies opportunity.",
-      "author": "Albert Einstein",
-      "category": "motivation"
-    },
-    {
-      "id": 3,
-      "text": "Do what you can, with what you have, where you are.",
-      "author": "Theodore Roosevelt",
-      "category": "motivation"
-    },
-    {
-      "id": 4,
-      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-      "author": "Winston Churchill",
-      "category": "success"
-    },
-    {
-      "id": 5,
-      "text": "Act as if what you do makes a difference. It does.",
-      "author": "William James",
-      "category": "inspiration"
-    },
-    {
-      "id": 6,
-      "text": "Opportunities don't happen. You create them.",
-      "author": "Chris Grosser",
-      "category": "success"
-    },
-    {
-      "id": 7,
-      "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
-      "author": "Ralph Waldo Emerson",
-      "category": "wisdom"
-    },
-    {
-      "id": 8,
-      "text": "Do not wait to strike till the iron is hot, but make it hot by striking.",
-      "author": "William Butler Yeats",
-      "category": "motivation"
-    },
-    {
-      "id": 9,
-      "text": "Everything you’ve ever wanted is on the other side of fear.",
-      "author": "George Addair",
-      "category": "inspiration"
-    },
-    {
-      "id": 10,
-      "text": "If you really look closely, most overnight successes took a long time.",
-      "author": "Steve Jobs",
-      "category": "success"
-    },
-    {
-      "id": 11,
-      "text": "It is not in the stars to hold our destiny but in ourselves.",
-      "author": "William Shakespeare",
-      "category": "wisdom"
-    },
-    {
-      "id": 12,
-      "text": "Do what you feel in your heart to be right—for you’ll be criticized anyway.",
-      "author": "Eleanor Roosevelt",
-      "category": "life"
-    },
-    {
-      "id": 13,
-      "text": "Whether you think you can, or you think you can’t—you’re right.",
-      "author": "Henry Ford",
-      "category": "motivation"
-    },
-    {
-      "id": 14,
-      "text": "It always seems impossible until it’s done.",
-      "author": "Nelson Mandela",
-      "category": "inspiration"
-    },
-    {
-      "id": 15,
-      "text": "Dream big and dare to fail.",
-      "author": "Norman Vaughan",
-      "category": "success"
-    },
-    {
-      "id": 16,
-      "text": "Happiness depends upon ourselves.",
-      "author": "Aristotle",
-      "category": "life"
-    },
-    {
-      "id": 17,
-      "text": "The way to get started is to quit talking and begin doing.",
-      "author": "Walt Disney",
-      "category": "motivation"
-    },
-    {
-      "id": 18,
-      "text": "Turn your wounds into wisdom.",
-      "author": "Oprah Winfrey",
-      "category": "wisdom"
-    },
-    {
-      "id": 19,
-      "text": "He who opens a school door, closes a prison.",
-      "author": "Victor Hugo",
-      "category": "wisdom"
-    },
-    {
-      "id": 20,
-      "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
-      "author": "Ralph Waldo Emerson",
-      "category": "inspiration"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "text": "All Wée féieren no Rom.",
+    "author": "Luxembourgish Proverb",
+    "category": "wisdom",
+    "meaning": "There are many ways to achieve the same goal."
+  },
+  {
+    "id": 2,
+    "text": "As éischter gesot ewéi gedoen.",
+    "author": "Luxembourgish Proverb",
+    "category": "wisdom",
+    "meaning": "It's easier to talk about doing something than to actually do it."
+  },
+  {
+    "id": 3,
+    "text": "Den Apel fält nét weit vum Bâm.",
+    "author": "Luxembourgish Proverb",
+    "category": "wisdom",
+    "meaning": "Children often resemble their parents in behavior or characteristics."
+  },
+  {
+    "id": 4,
+    "text": "D' Nout kennt kee Gesetz.",
+    "author": "Luxembourgish Proverb",
+    "category": "wisdom",
+    "meaning": "In urgent situations, people may disregard rules or conventions."
+  },
+  {
+    "id": 5,
+    "text": "De Geleeënheet mécht den Déif.",
+    "author": "Luxembourgish Proverb",
+    "category": "wisdom",
+    "meaning": "People may act dishonestly if given the chance."
+  },
+  {
+    "id": 6,
+    "text": "Den alles wëllt, kritt näischt.",
+    "author": "Luxembourgish Proverb",
+    "category": "wisdom",
+    "meaning": "Being overly greedy can lead to losing everything."
+  },
+  {
+    "id": 7,
+    "text": "Den éischte Frënd ass de beschte Frënd.",
+    "author": "Luxembourgish Proverb",
+    "category": "life",
+    "meaning": "Long-standing friendships are invaluable."
+  },
+  {
+    "id": 8,
+    "text": "Déi zwéi Kinnekskanner, déi sech gär haten, koumen net beieneen.",
+    "author": "Luxembourgish Proverb",
+    "category": "love",
+    "meaning": "Even those destined for each other may face insurmountable obstacles."
+  },
+  {
+    "id": 9,
+    "text": "Et ass kee Prophet an sengem eegene Land unerkannt.",
+    "author": "Luxembourgish Proverb",
+    "category": "wisdom",
+    "meaning": "People's talents or insights are often unappreciated by those close to them."
+  },
+  {
+    "id": 10,
+    "text": "Klenge Kärel mécht och Schied.",
+    "author": "Luxembourgish Proverb",
+    "category": "motivation",
+    "meaning": "Everyone, regardless of size or status, has significance."
+  },
+  {
+    "id": 11,
+    "text": "Léiw Wierder kaschten näischt.",
+    "author": "Luxembourgish Proverb",
+    "category": "kindness",
+    "meaning": "Being kind doesn't require much effort but has great value."
+  },
+  {
+    "id": 12,
+    "text": "Mat Gedold an Zäit gëtt d'Miel zum Brout.",
+    "author": "Luxembourgish Proverb",
+    "category": "patience",
+    "meaning": "Patience leads to fruitful outcomes."
+  },
+  {
+    "id": 13,
+    "text": "Net all Dag ass Sonndeg.",
+    "author": "Luxembourgish Proverb",
+    "category": "life",
+    "meaning": "Life isn't always easy; challenges are part of it."
+  },
+  {
+    "id": 14,
+    "text": "Ouni Käschte gëtt et keng Gewënn.",
+    "author": "Luxembourgish Proverb",
+    "category": "success",
+    "meaning": "Achieving something valuable often requires sacrifices."
+  },
+  {
+    "id": 15,
+    "text": "Séisse Mond kritt alles.",
+    "author": "Luxembourgish Proverb",
+    "category": "wisdom",
+    "meaning": "Kindness and flattery can achieve a lot."
+  },
+  {
+    "id": 16,
+    "text": "Wou d'Uelzecht durech d'Wisen zéit, do ass onst Land.",
+    "author": "Luxembourgish Proverb",
+    "category": "patriotism",
+    "meaning": "A poetic reference to Luxembourg's landscape and heritage."
+  },
+  {
+    "id": 17,
+    "text": "Zefill Käch versalzen d'Zopp.",
+    "author": "Luxembourgish Proverb",
+    "category": "wisdom",
+    "meaning": "Too many people involved can ruin a project."
+  },
+  {
+    "id": 18,
+    "text": "Zeit ass Suen.",
+    "author": "Benjamin Franklin (Translated to Luxembourgish)",
+    "category": "success",
+    "meaning": "Time is a valuable resource."
+  },
+  {
+    "id": 19,
+    "text": "Wie net wëllt héieren, muss fillen.",
+    "author": "Luxembourgish Proverb",
+    "category": "wisdom",
+    "meaning": "Ignoring advice can lead to consequences."
+  },
+  {
+    "id": 20,
+    "text": "Wou eng Wëll ass, ass och e Wee.",
+    "author": "Luxembourgish Proverb",
+    "category": "motivation",
+    "meaning": "Determination can overcome obstacles."
+  }
+]

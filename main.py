@@ -10,7 +10,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
     allow_credentials=True,
-    allow_methods=["*"],
+    allow_methods=["GET"],
     allow_headers=["*"],
 )
 
@@ -22,6 +22,7 @@ class QuoteRequest(BaseModel):
     text: str
     author: str
     category: str
+    meaning: str
 
 @app.get("/quotes")
 def get_all_quotes():
@@ -41,22 +42,6 @@ def get_quote_by_category(category: str):
     if not quotes:
         raise HTTPException(status_code=404, detail="No quotes found in this category")
     return random.choice(quotes)
-
-@app.post("/quotes")
-def add_quote(quote: QuoteRequest):
-    quotes = load_quotes()
-    new_quote = {
-        "id": max(q["id"] for q in quotes) + 1 if quotes else 1,
-        "text": quote.text,
-        "author": quote.author,
-        "category": quote.category
-    }
-    quotes.append(new_quote)
-
-    with open("data.json", "w", encoding="utf-8") as file:
-        json.dump(quotes, file, indent=4)
-
-    return {"message": "Quote added successfully", "quote": new_quote}
 
 if __name__ == "__main__":
     import uvicorn
