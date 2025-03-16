@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "text": "The only limit to our realization of tomorrow is our doubts of today.",
+        "author": "Franklin D. Roosevelt",
+        "category": "Motivation",
+        "meaning": "Doubt and fear can hinder progress, so believe in yourself."
+    },
+    {
+        "id": 2,
+        "text": "Do what you can, with what you have, where you are.",
+        "author": "Theodore Roosevelt",
+        "category": "Motivation",
+        "meaning": "Make the best of your current situation and resources."
+    },
+    {
+        "id": 3,
+        "text": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius",
+        "category": "Perseverance",
+        "meaning": "Persistence is key to achieving your goals."
+    },
+    {
+        "id": 4,
+        "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "category": "Success",
+        "meaning": "Both success and failure are temporary; perseverance matters most."
+    },
+    {
+        "id": 5,
+        "text": "Happiness depends upon ourselves.",
+        "author": "Aristotle",
+        "category": "Happiness",
+        "meaning": "Your happiness is determined by your own actions and mindset."
+    },
+    {
+        "id": 6,
+        "text": "You miss 100% of the shots you don't take.",
+        "author": "Wayne Gretzky",
+        "category": "Courage",
+        "meaning": "If you don't try, you will never succeed."
+    },
+    {
+        "id": 7,
+        "text": "Act as if what you do makes a difference. It does.",
+        "author": "William James",
+        "category": "Impact",
+        "meaning": "Your actions, no matter how small, have an impact."
+    },
+    {
+        "id": 8,
+        "text": "Life isn’t about waiting for the storm to pass, it’s about learning to dance in the rain.",
+        "author": "Vivian Greene",
+        "category": "Life",
+        "meaning": "Embrace challenges and make the most out of difficult situations."
+    },
+    {
+        "id": 9,
+        "text": "The best way to predict the future is to create it.",
+        "author": "Peter Drucker",
+        "category": "Success",
+        "meaning": "Your actions today shape your future."
+    },
+    {
+        "id": 10,
+        "text": "Difficulties in life are intended to make us better, not bitter.",
+        "author": "Dan Reeves",
+        "category": "Resilience",
+        "meaning": "Hard times help us grow rather than bring us down."
+    }
+]
